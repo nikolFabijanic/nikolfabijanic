@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nikolfabijanic/static/css/main.e8458fc6.css",
+    "main.js": "/nikolfabijanic/static/js/main.f49204dd.js",
+    "static/js/453.1407b060.chunk.js": "/nikolfabijanic/static/js/453.1407b060.chunk.js",
+    "static/media/map-portrait.png": "/nikolfabijanic/static/media/map-portrait.d2b5a1785625e5c3b361.png",
+    "static/media/models.png": "/nikolfabijanic/static/media/models.6eecec092695d57c7fdc.png",
+    "static/media/dashboard day-portrait.png": "/nikolfabijanic/static/media/dashboard day-portrait.97a52dc110123e71f084.png",
+    "static/media/Ver 4-portrait.png": "/nikolfabijanic/static/media/Ver 4-portrait.c007df756c7ff7d05364.png",
+    "static/media/Ver 3-portrait.png": "/nikolfabijanic/static/media/Ver 3-portrait.620af14cbc5cd6111fd9.png",
+    "static/media/start page-portrait.png": "/nikolfabijanic/static/media/start page-portrait.6c20db9c5c3087430285.png",
+    "static/media/about.jpg": "/nikolfabijanic/static/media/about.2ec6fbc42f6ee07d504d.jpg",
+    "static/media/mcstore.png": "/nikolfabijanic/static/media/mcstore.aea4de16ae907ed0eac5.png",
+    "static/media/chatbot.png": "/nikolfabijanic/static/media/chatbot.9859d8705cdbd92c832f.png",
+    "static/media/movieIntro.png": "/nikolfabijanic/static/media/movieIntro.447de9f8f4aa19a075b3.png",
+    "index.html": "/nikolfabijanic/index.html",
+    "main.e8458fc6.css.map": "/nikolfabijanic/static/css/main.e8458fc6.css.map",
+    "main.f49204dd.js.map": "/nikolfabijanic/static/js/main.f49204dd.js.map",
+    "453.1407b060.chunk.js.map": "/nikolfabijanic/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8458fc6.css",
+    "static/js/main.f49204dd.js"
+  ]
+}
