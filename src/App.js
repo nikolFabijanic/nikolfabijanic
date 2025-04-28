@@ -10,7 +10,7 @@ function App() {
       <Router basename="/nikolfabijanic">
         <Navbar />
         <Routes>
-          <Route exact path='/nikolfabijanic' element={<Home />} />
+          <Route path='/' element={<Home />} />
         </Routes>
         <Footer />
       </Router>
