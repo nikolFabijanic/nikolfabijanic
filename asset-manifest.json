@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nikolfabijanic/static/css/main.1591da23.css",
-    "main.js": "/nikolfabijanic/static/js/main.d1e26a00.js",
+    "main.css": "/nikolfabijanic/static/css/main.6e5c5f9e.css",
+    "main.js": "/nikolfabijanic/static/js/main.a0bfe797.js",
     "static/js/453.1407b060.chunk.js": "/nikolfabijanic/static/js/453.1407b060.chunk.js",
     "static/media/map-portrait.png": "/nikolfabijanic/static/media/map-portrait.d2b5a1785625e5c3b361.png",
     "static/media/models.png": "/nikolfabijanic/static/media/models.6eecec092695d57c7fdc.png",
@@ -14,12 +14,12 @@
     "static/media/chatbot.png": "/nikolfabijanic/static/media/chatbot.9859d8705cdbd92c832f.png",
     "static/media/movieIntro.png": "/nikolfabijanic/static/media/movieIntro.447de9f8f4aa19a075b3.png",
     "index.html": "/nikolfabijanic/index.html",
-    "main.1591da23.css.map": "/nikolfabijanic/static/css/main.1591da23.css.map",
-    "main.d1e26a00.js.map": "/nikolfabijanic/static/js/main.d1e26a00.js.map",
+    "main.6e5c5f9e.css.map": "/nikolfabijanic/static/css/main.6e5c5f9e.css.map",
+    "main.a0bfe797.js.map": "/nikolfabijanic/static/js/main.a0bfe797.js.map",
     "453.1407b060.chunk.js.map": "/nikolfabijanic/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1591da23.css",
-    "static/js/main.d1e26a00.js"
+    "static/css/main.6e5c5f9e.css",
+    "static/js/main.a0bfe797.js"
   ]
 }
