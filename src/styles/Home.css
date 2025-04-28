@@ -1,0 +1,208 @@
+/******************/
+/*     HEADER     */
+/******************/
+
+.home {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: "Cinzel", serif;
+    background-color: #54695D;
+  }
+  
+  .headerContainer {
+    width: 70%;
+    margin-left: 5vw;
+    align-items: center;
+  }
+  
+  .headerContainer h1 {
+    font-size: 7rem;
+    font-weight: 500;
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    .headerContainer h1 {
+      font-size: 6rem;
+    }   
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .headerContainer h1 {
+      font-size: 5rem;
+    }   
+  }
+
+  @media only screen and (max-width: 800px) {
+    .headerContainer h1 {
+      font-size: 3.5rem;
+    }   
+  }
+
+  @media only screen and (max-width: 650px) {
+    .headerContainer h1 {
+      font-size: 2rem;
+    }   
+  }
+
+
+/******************/
+/*      ABOUT     */
+/******************/
+
+.about{
+  padding: 5% 12%;
+  background-color: #222A26;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  min-height: 80vh;
+}
+
+.aboutimg{
+  height: 70vh;
+}
+
+.text{
+  width: 36vw;
+}
+
+.text h1{
+  font-family: "Cinzel", serif;
+  font-size: 2.5rem;
+  margin-bottom: 8vh;
+}
+
+.text p{
+  font-size: 1.2rem;
+  font-family: "Bookman Old Style", Georgia, serif;
+}
+
+
+/******************/
+/*    PROJECTS    */
+/******************/
+
+.projects{
+  padding: 5%;
+  padding-top: 18vh;
+  background-color: #54695D;
+}
+
+.project-card {
+  display: flex;
+  background-color: #E0DDD3;
+  padding: 35px;
+  gap: 24px;
+  max-width: 70vw;
+  max-height: 58vh;
+  margin: 0 auto;
+  /* overflow: hidden; */
+  font-family: "Cinzel", serif;
+  margin-bottom: 20vh;
+}
+
+.project-card-fliped {
+  display: flex;
+  justify-content: space-between;
+  background-color: #E0D2CB;
+  padding: 35px;
+  gap: 24px;
+  max-width: 70vw;
+  max-height: 58vh;
+  margin: 0 auto;
+  /* overflow: hidden; */
+  font-family: "Cinzel", serif;
+  margin-bottom: 20vh;
+}
+
+.image-container {
+  position: relative;
+  /* flex: 1; */
+  border-radius: 25px;
+  overflow: hidden;
+  height: 70vh;
+  max-width: 70vh;
+  display: flex;
+  /* border: black solid 1px; */
+}
+
+.branding-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: relative;
+  /* z-index: 1; */
+}
+
+.center-image {
+  justify-content: center;
+}
+
+.project-image {
+  height: 95%;
+}
+
+.project-image-2 {
+  height: 95%;
+  z-index: 0;
+  margin-top: 4vh;
+}
+
+.movie-image {
+  height: 100%;
+}
+
+.chatbot-image {
+  height: 100%;
+}
+
+.models-image {
+  height: 100%;
+}
+
+.content {
+  /* flex: 1; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: black;
+  max-width: 50%;
+}
+
+.label {
+  background-color: white;
+  display: inline-block;
+  padding: 6px 16px;
+  width: fit-content;
+  border-radius: 20px;
+  font-size: .8rem;
+  font-weight: 600;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.description{
+  font-size: 2rem;
+  font-family: "EB Garamond", serif;
+}
+
+#card3 {
+  background-color: #DECEC2;
+}
+
+#card4 {
+  background-color: #E0DDD3;
+}
+
+#card5 {
+  background-color: #E0D2CB;
+}
+
+#card6 {
+  background-color: #DECEC2;
+}
