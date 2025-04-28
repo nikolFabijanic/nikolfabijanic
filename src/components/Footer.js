@@ -7,12 +7,15 @@ function Footer() {
   return (
       <div className='footer'>
         <div className="leftSide">
-            <GithubIcon /> <LinedInIcon />
-          </div>
-          <div className="rightSide">
+          <a href="https://github.com/nikolFabijanic?tab=repositories"> <GithubIcon /> </a>
+          <a href="https://www.linkedin.com/in/nikol-fabijani%C4%87-9b9300298/"> <LinedInIcon /> </a>
+        </div>
+        <div className="rightSide">
+          <a href="mailto:nikol.fabijanic@gmail.com">
             <p>Contact</p>
-      </div>
-      <p className='copy'>&copy; 2025 Nikol Fabijanić</p>
+          </a>
+        </div>
+        <p className='copy'>&copy; 2025 Nikol Fabijanić</p>
     </div>
   )
 }

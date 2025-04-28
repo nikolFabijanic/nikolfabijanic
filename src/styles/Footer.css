@@ -29,3 +29,7 @@
   .copy {
     padding: 3vw;
   }
+
+  .footer a {
+    text-decoration: none;
+  }
